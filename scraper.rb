@@ -51,7 +51,7 @@ puts '--------------------------Searching Results--------------------------'
 job_array.each(&:display)
 
 # Write the job info to the result.txt file.
-f = File.new('result.txt', 'w')
+f = File.new('results.txt', 'w')
 f.write("--------------------------Searching Results--------------------------\n")
 job_array.each do |item|
   f.write(item.index)
@@ -62,3 +62,4 @@ job_array.each do |item|
   f.write(item.line)
 end
 f.close
+SendEmail.send(f)

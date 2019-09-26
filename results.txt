@@ -1,0 +1,553 @@
+--------------------------Searching Results--------------------------
+Job 1
+Job Title: Content Training Coordinator
+Department: Human Sciences Administration
+Application Deadline: 10/04/2019
+Salary: $17.31 - $19.71 Hourly
+--------------------------------------------------------------------
+Job 2
+Job Title: Facilities Ren/Rest Techn
+Department: West Painting
+Application Deadline: 10/06/2019
+Salary: $18.75 - $28.13 Hourly
+--------------------------------------------------------------------
+Job 3
+Job Title: Govt Affairs Associate - Washington, D.C.
+Department: Government Affairs
+Application Deadline: 10/10/2019
+Salary: $48,000.00 - $58,000.00 Annually
+--------------------------------------------------------------------
+Job 4
+Job Title: Asst Banquet Manager
+Department: Operations-Blackwell Inn at FC
+Application Deadline: 10/06/2019
+Salary: $16.00 - $18.00 Hourly
+--------------------------------------------------------------------
+Job 5
+Job Title: Post Doctoral Researcher
+Department: CEMAS
+Application Deadline: 10/13/2019
+Salary: $60,000.00 - $60,000.00 Annually
+--------------------------------------------------------------------
+Job 6
+Job Title: Post Doctoral Researcher
+Department: CEMAS
+Application Deadline: 10/13/2019
+Salary: $60,000.00 - $60,000.00 Annually
+--------------------------------------------------------------------
+Job 7
+Job Title: VCT - Tier 2 - Surgery-D
+Department: Vet Med Center at Dublin
+Application Deadline: 10/02/2019
+Salary: $16.00 - $19.23 Hourly
+--------------------------------------------------------------------
+Job 8
+Job Title: Medical Assistant
+Department: Primary Healthcare
+Application Deadline: 11/10/2019
+Salary: $14.00 - $16.00 Hourly
+--------------------------------------------------------------------
+Job 9
+Job Title: Lecturer
+Department: Teaching & Learning Admin
+Application Deadline: 10/06/2019
+Salary: $48,000.00 - $53,000.00 Annually
+--------------------------------------------------------------------
+Job 10
+Job Title: Security Engineer
+Department: OCIO Governance and Risk Mgmt
+Application Deadline: 10/06/2019
+Salary: $75,042.00 - $91,718.00 Annually
+--------------------------------------------------------------------
+Job 11
+Job Title: 453513
+Department: OARnet Non-Academic Client Ser
+Application Deadline: 10/06/2019
+Salary: $57,000.00 - $64,000.00 Annually
+--------------------------------------------------------------------
+Job 12
+Job Title: Proj Data & Mgt Specialist
+Department: Development Donor Relations
+Application Deadline: 10/06/2019
+Salary: $18.27 - $21.15 Hourly
+--------------------------------------------------------------------
+Job 13
+Job Title: Line Cook
+Department: Dining Services Union Admin
+Application Deadline: 09/29/2019
+Salary: $14.04 - $14.04 Hourly
+--------------------------------------------------------------------
+Job 14
+Job Title: Administrative Associate
+Department: Student Wellness Center
+Application Deadline: 09/29/2019
+Salary: $18.95 - $21.00 Hourly
+--------------------------------------------------------------------
+Job 15
+Job Title: Professional Learning Manager
+Department: ODEE Learning Technology
+Application Deadline: 10/06/2019
+Salary: $68,400.00 - $83,600.00 Annually
+--------------------------------------------------------------------
+Job 16
+Job Title: Facilities Maintenance Techn
+Department: North Maintenance
+Application Deadline: 09/29/2019
+Salary: $16.30 - $24.45 Hourly
+--------------------------------------------------------------------
+Job 17
+Job Title: Facilities Maintenance Techn
+Department: South Maintenance
+Application Deadline: 10/06/2019
+Salary: $16.30 - $24.45 Hourly
+--------------------------------------------------------------------
+Job 18
+Job Title: Mgr, Bus Dev & Airport Admin
+Department: University Airport
+Application Deadline: 09/29/2019
+Salary: $70,000.00 - $80,000.00 Annually
+--------------------------------------------------------------------
+Job 19
+Job Title: BOC Proc/Travel Associate
+Department: College BOC Operations
+Application Deadline: 10/06/2019
+Salary: $19.42 - $21.87 Hourly
+--------------------------------------------------------------------
+Job 20
+Job Title: Sponsored Program Officer
+Department: Engineering Rsch Operations
+Application Deadline: 09/29/2019
+Salary: $48,000.00 - $55,000.00 Annually
+--------------------------------------------------------------------
+Job 21
+Job Title: Sr. Ed. Prep. Associate
+Department: EHE Accred Placement & Licens
+Application Deadline: 09/29/2019
+Salary: $51,000.00 - $58,000.00 Annually
+--------------------------------------------------------------------
+Job 22
+Job Title: Research Assistant 1-Social
+Department: Crane Ctr for Early Childhood
+Application Deadline: 09/29/2019
+Salary: $15.70 - $16.85 Hourly
+--------------------------------------------------------------------
+Job 23
+Job Title: Ohio Eminent Scholar
+Department: Molecular Genetics Admin
+Application Deadline: 11/01/2019
+Salary: Negotiable
+--------------------------------------------------------------------
+Job 24
+Job Title: Asseff Chair
+Department: Anthropology
+Application Deadline: 11/01/2019
+Salary: Negotiable
+--------------------------------------------------------------------
+Job 25
+Job Title: Open Faculty Search
+Department: Psychology
+Application Deadline: 11/01/2019
+Salary: Negotiable
+--------------------------------------------------------------------
+Job 26
+Job Title: Open Rank (Assistant to Full)
+Department: School of Communication
+Application Deadline: 10/15/2019
+Salary: Negotiable
+--------------------------------------------------------------------
+Job 27
+Job Title: Medical Records Coding Spclst
+Department: Oral/Maxillofacial Surg
+Application Deadline: 09/29/2019
+Salary: $15.00 - $18.00 Hourly
+--------------------------------------------------------------------
+Job 28
+Job Title: Office Associate
+Department: Oral/Maxillofacial Surg
+Application Deadline: 09/29/2019
+Salary: $15.00 - $17.00 Hourly
+--------------------------------------------------------------------
+Job 29
+Job Title: Research Associate 1-B/H
+Department: Oral Pathology
+Application Deadline: 09/29/2019
+Salary: $15.40 - $19.25 Hourly
+--------------------------------------------------------------------
+Job 30
+Job Title: Arch Desc & Access Coordinator
+Department: Content & Access
+Application Deadline: 10/06/2019
+Salary: $19.00 - $21.00 Hourly
+--------------------------------------------------------------------
+Job 31
+Job Title: Project Manager
+Department: Fac Design Construction
+Application Deadline: 10/06/2019
+Salary: $60,000.00 - $80,000.00 Annually
+--------------------------------------------------------------------
+Job 32
+Job Title: Grad Admissions Coordinator
+Department: Chemistry and Biochemistry
+Application Deadline: 09/29/2019
+Salary: $20.90 - $21.66 Hourly
+--------------------------------------------------------------------
+Job 33
+Job Title: MSP Program Assistant
+Department: ODI Scholars Program
+Application Deadline: 09/29/2019
+Salary: $14.42 - $16.83 Hourly
+--------------------------------------------------------------------
+Job 34
+Job Title: Custodial Worker 1
+Department: Academic District
+Application Deadline: 09/29/2019
+Salary: $12.00 Hourly
+--------------------------------------------------------------------
+Job 35
+Job Title: Construction Manager-PMO
+Department: FDC operating - WMC group
+Application Deadline: 09/29/2019
+Salary: $78,000.00 - $90,000.00 Annually
+--------------------------------------------------------------------
+Job 36
+Job Title: Aca Success and Enrich Spclst
+Department: Transition and Academic Growth
+Application Deadline: 10/06/2019
+Salary: $19.23 - $21.63 Hourly
+--------------------------------------------------------------------
+Job 37
+Job Title: DoDVLS Content Writer
+Department: Human Sciences Administration
+Application Deadline: 10/06/2019
+Salary: $18.27 - $19.27 Hourly
+--------------------------------------------------------------------
+Job 38
+Job Title: Senior Tax Manager
+Department: Payroll Services
+Application Deadline: 10/13/2019
+Salary: Negotiable
+--------------------------------------------------------------------
+Job 39
+Job Title: Systems Specialist
+Department: Information Technology
+Application Deadline: 10/06/2019
+Salary: $48,000.00 - $55,000.00 Annually
+--------------------------------------------------------------------
+Job 40
+Job Title: DoDVLS Post-Doc Researcher
+Department: Human Sciences Administration
+Application Deadline: 10/06/2019
+Salary: $50,000.00 - $55,000.00 Annually
+--------------------------------------------------------------------
+Job 41
+Job Title: Assoc. BI Admin/Dev
+Department: Enterprise Project
+Application Deadline: 10/06/2019
+Salary: $68,000.00 - $85,000.00 Annually
+--------------------------------------------------------------------
+Job 42
+Job Title: Line Cook
+Department: Morrill
+Application Deadline: 09/29/2019
+Salary: $14.04 Hourly
+--------------------------------------------------------------------
+Job 43
+Job Title: SA Veterinary Assistant - TEMP
+Department: VTH-Small Animal Basic Service
+Application Deadline: 10/13/2019
+Salary: $11.10 - $13.00 Hourly
+--------------------------------------------------------------------
+Job 44
+Job Title: Vet Asst–Hospitalized Patient Care
+Department: VTH-Small Animal Basic Service
+Application Deadline: 10/13/2019
+Salary: $11.10 - $13.00 Hourly
+--------------------------------------------------------------------
+Job 45
+Job Title: Veterinary Assistant - Ward
+Department: VTH-Small Animal Basic Service
+Application Deadline: 10/13/2019
+Salary: $11.10 - $13.00 Hourly
+--------------------------------------------------------------------
+Job 46
+Job Title: SA-ECC Veterinary Assistant
+Department: VTH-Small Animal ICU
+Application Deadline: 10/13/2019
+Salary: $11.10 - $13.00 Hourly
+--------------------------------------------------------------------
+Job 47
+Job Title: VCT-Tier 2-Hospital Pt Care
+Department: VTH-Small Animal Basic Service
+Application Deadline: 10/13/2019
+Salary: $16.00 - $19.63 Hourly
+--------------------------------------------------------------------
+Job 48
+Job Title: VCT-Tier 2-Hospital Pt Care
+Department: VTH-Small Animal Basic Service
+Application Deadline: 10/13/2019
+Salary: $16.00 - $19.63 Hourly
+--------------------------------------------------------------------
+Job 49
+Job Title: VCT-Tier 2-Hospital Pt Care
+Department: VTH-Small Animal Basic Service
+Application Deadline: 10/13/2019
+Salary: $16.00 - $19.63 Hourly
+--------------------------------------------------------------------
+Job 50
+Job Title: VCT-Tier 2-Hospital Pt Care
+Department: VTH-Small Animal Basic Service
+Application Deadline: 10/13/2019
+Salary: $16.00 - $19.63 Hourly
+--------------------------------------------------------------------
+Job 51
+Job Title: VCT-Tier 2-Hospital Pt Care
+Department: VTH-Small Animal Basic Service
+Application Deadline: 10/13/2019
+Salary: $16.00 - $19.63 Hourly
+--------------------------------------------------------------------
+Job 52
+Job Title: VCT - Tier II - Radiology
+Department: VTH-Radiology
+Application Deadline: 10/13/2019
+Salary: $16.00 - $19.23 Hourly
+--------------------------------------------------------------------
+Job 53
+Job Title: Research Devt Specialist
+Department: OR-Prop Dev Ctr
+Application Deadline: 10/06/2019
+Salary: $75,000.00 - $85,000.00 Annually
+--------------------------------------------------------------------
+Job 54
+Job Title: Chief Administrative Officer
+Department: OCIO Office
+Application Deadline: 09/29/2019
+Salary: Negotiable
+--------------------------------------------------------------------
+Job 55
+Job Title: DA - Sterilization
+Department: Dent Sterilization
+Application Deadline: 10/20/2019
+Salary: $13.50 - $17.00 Hourly
+--------------------------------------------------------------------
+Job 56
+Job Title: Ortho/Restorative DA
+Department: Dental Faculty Practice
+Application Deadline: 10/20/2019
+Salary: $14.50 - $18.00 Hourly
+--------------------------------------------------------------------
+Job 57
+Job Title: Sterilization Assistant
+Department: Dent Sterilization
+Application Deadline: 10/20/2019
+Salary: $13.50 - $17.00 Hourly
+--------------------------------------------------------------------
+Job 58
+Job Title: Patient Care Associate - DFP
+Department: Dental Faculty Practice
+Application Deadline: 10/20/2019
+Salary: $13.00 - $15.00 Hourly
+--------------------------------------------------------------------
+Job 59
+Job Title: Dental Assistant Supervisor
+Department: Dental Faculty Practice
+Application Deadline: 10/20/2019
+Salary: $19.00 - $22.00 Hourly
+--------------------------------------------------------------------
+Job 60
+Job Title: Information Associate
+Department: Orthodontics
+Application Deadline: 09/29/2019
+Salary: $12.50 - $14.50 Hourly
+--------------------------------------------------------------------
+Job 61
+Job Title: Stewardship Associate, Found Rel
+Department: Dev Foundation Relations
+Application Deadline: 09/29/2019
+Salary: $55,000.00 - $65,000.00 Annually
+--------------------------------------------------------------------
+Job 62
+Job Title: Program Coordinator
+Department: Horticulture & Crop Science
+Application Deadline: 09/29/2019
+Salary: $18.00 - $20.00 Hourly
+--------------------------------------------------------------------
+Job 63
+Job Title: Coord-Aquatics Stu Personnel
+Department: Rec Sports Admin
+Application Deadline: 09/29/2019
+Salary: $20.19 - $22.11 Hourly
+--------------------------------------------------------------------
+Job 64
+Job Title: Fiscal Officer
+Department: COE Administration & Planning
+Application Deadline: 09/29/2019
+Salary: $48,000.00 - $56,000.00 Annually
+--------------------------------------------------------------------
+Job 65
+Job Title: Catering Sales Manager
+Department: University Catering
+Application Deadline: 09/29/2019
+Salary: $47,476.00 - $49,000.00 Annually
+--------------------------------------------------------------------
+Job 66
+Job Title: Post Doctoral Researcher
+Department: PPC-Power & Propulsion Center
+Application Deadline: 10/06/2019
+Salary: $60,000.00 - $70,000.00 Annually
+--------------------------------------------------------------------
+Job 67
+Job Title: Facilities Maintenance Techn
+Department: West Maintenance
+Application Deadline: 09/29/2019
+Salary: $16.30 - $24.45 Hourly
+--------------------------------------------------------------------
+Job 68
+Job Title: Assistant Professor
+Department: Dance
+Application Deadline: 10/01/2019
+Salary: Negotiable
+--------------------------------------------------------------------
+Job 69
+Job Title: Director of Development
+Department: Dev Constituency Fundraising
+Application Deadline: 09/29/2019
+Salary: $70,000.00 - $85,000.00 Annually
+--------------------------------------------------------------------
+Job 70
+Job Title: Senior Director of Development
+Department: Dev Constituency Fundraising
+Application Deadline: 10/06/2019
+Salary: $90,000.00 - $105,000.00 Annually
+--------------------------------------------------------------------
+Job 71
+Job Title: DF Project Manager
+Department: ODEE Learning Technology
+Application Deadline: 09/29/2019
+Salary: $70,484.00 - $80,148.00 Annually
+--------------------------------------------------------------------
+Job 72
+Job Title: EHE BOSC HR Lead
+Department: EHE Service Center
+Application Deadline: 09/29/2019
+Salary: $47,600.00 - $53,400.00 Annually
+--------------------------------------------------------------------
+Job 73
+Job Title: Avionics Technician
+Department: University Airport
+Application Deadline: 10/20/2019
+Salary: $20.17 - $24.52 Annually
+--------------------------------------------------------------------
+Job 74
+Job Title: Diversity Program Coordinator
+Department: Graduate School Administration
+Application Deadline: 09/29/2019
+Salary: $20.19 - $25.00 Hourly
+--------------------------------------------------------------------
+Job 75
+Job Title: Office Associate
+Department: University Development
+Application Deadline: 09/29/2019
+Salary: $16.35 - $19.23 Hourly
+--------------------------------------------------------------------
+Job 76
+Job Title: Residence Hall Director
+Department: Residence Life
+Application Deadline: 10/06/2019
+Salary: $47,476.00 - $47,476.00 Annually
+--------------------------------------------------------------------
+Job 77
+Job Title: Sales Assistant
+Department: Dining Services Union Admin
+Application Deadline: 09/29/2019
+Salary: $12.00 - $13.00 Hourly
+--------------------------------------------------------------------
+Job 78
+Job Title: Revenue Cycle Manager
+Department: SHS Financial Operations
+Application Deadline: 09/29/2019
+Salary: $65,000.00 - $75,000.00 Annually
+--------------------------------------------------------------------
+Job 79
+Job Title: Sr. Bus. Intelligence Analyst
+Department: Dentistry Admin
+Application Deadline: 09/29/2019
+Salary: $80,000.00 - $90,000.00 Annually
+--------------------------------------------------------------------
+Job 80
+Job Title: Research Assistant 2-B/H
+Department: Biosciences
+Application Deadline: 09/29/2019
+Salary: $14.00 - $18.00 Hourly
+--------------------------------------------------------------------
+Job 81
+Job Title: Data Scientist
+Department: Adv Alumni Insights
+Application Deadline: 09/29/2019
+Salary: $90,000.00 - $105,000.00 Annually
+--------------------------------------------------------------------
+Job 82
+Job Title: Client Engineer
+Department: Ohio Supercomputer Center
+Application Deadline: 10/06/2019
+Salary: $65,000.00 - $78,000.00 Annually
+--------------------------------------------------------------------
+Job 83
+Job Title: Application Developer
+Department: Stu Life Application Dev
+Application Deadline: 09/27/2019
+Salary: $70,000.00 - $80,000.00 Annually
+--------------------------------------------------------------------
+Job 84
+Job Title: Post Doctoral Researcher
+Department: Biosciences
+Application Deadline: 09/29/2019
+Salary: $48,000.00 - $50,000.00 Annually
+--------------------------------------------------------------------
+Job 85
+Job Title: Sen Dir of Prospect Dev
+Department: Prospect Mgmt and Research
+Application Deadline: 09/29/2019
+Salary: $90,000.00 - $115,000.00 Annually
+--------------------------------------------------------------------
+Job 86
+Job Title: Clinic Health & Safety Dir
+Department: Dent Clinic Administration
+Application Deadline: 09/29/2019
+Salary: $75,000.00 - $85,000.00 Annually
+--------------------------------------------------------------------
+Job 87
+Job Title: Post Doctoral Researcher
+Department: Sociology
+Application Deadline: 09/29/2019
+Salary: $55,000.00 - $60,000.00 Annually
+--------------------------------------------------------------------
+Job 88
+Job Title: Clinic Risk/Privacy Officer
+Department: Dent Clinic Administration
+Application Deadline: 10/27/2019
+Salary: $85,000.00 - $95,000.00 Annually
+--------------------------------------------------------------------
+Job 89
+Job Title: Sr. Collections Specialist
+Department: University Bursar
+Application Deadline: 11/01/2019
+Salary: $17.78 - $21.64 Hourly
+--------------------------------------------------------------------
+Job 90
+Job Title: Assistant Professor - EEOB
+Department: Lima Campus
+Application Deadline: 10/20/2019
+Salary: Negotiable
+--------------------------------------------------------------------
+Job 91
+Job Title: Post Doctoral Researcher
+Department: College of Nursing
+Application Deadline: 10/13/2019
+Salary: $48,000.00 - $48,000.00 Annually
+--------------------------------------------------------------------
+Job 92
+Job Title: Post Doctoral Researcher
+Department: Optometry
+Application Deadline: 01/12/2020
+Salary: $50,000.00 - $53,000.00 Annually
+--------------------------------------------------------------------
