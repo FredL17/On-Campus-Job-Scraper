@@ -3,24 +3,28 @@
 # Model job object.
 class Job
   # Getter methods to make values public
+  attr_reader :index
   attr_reader :title
   attr_reader :department
   attr_reader :deadline
   attr_reader :salary
+  attr_reader :line
 
-  def initialize(title, department, deadline, salary)
-    @title = title.strip
-    @department = department.strip
-    @deadline = deadline.strip
-    @salary = salary.strip
+  def initialize(title, department, deadline, salary, index)
+    @index = 'Job ' + index.to_s.strip + "\n"
+    @title = 'Job Title: ' + title.strip + "\n"
+    @department = 'Department: ' + department.strip + "\n"
+    @deadline = 'Application Deadline: ' + deadline.strip + "\n"
+    @salary = 'Salary: ' + salary.strip + "\n"
+    @line = "--------------------------------------------------------------------\n"
   end
 
-  def display(index)
-    puts "Job #{index}"
-    puts "Job Title: #{title}"
-    puts "Department: #{department}"
-    puts "Application Deadline: #{deadline}"
-    puts "Salary: #{salary}"
-    puts '--------------------------------------------------------------------'
+  def display
+    puts index
+    puts title
+    puts department
+    puts deadline
+    puts salary
+    puts line
   end
 end

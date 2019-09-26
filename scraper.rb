@@ -22,6 +22,7 @@ current_page = 1
 # Count the number of pages.
 last_page = (job_count / 30) + 1
 job_array = []
+index = 1
 while current_page <= last_page
   page_url = "https://www.jobsatosu.com/postings/search?utf8=%E2%9C%93&query=#{keyword}&page=#{current_page}&query_v0_posted_at_date=&577=&578=&579=&commit=Search"
   unparsed_current_page = HTTParty.get(page_url)
@@ -36,17 +37,27 @@ while current_page <= last_page
     deadline = info_list[2].text
     salary = info_list[4].text
     # Create the job object for each job item.
-    job_object = Job.new(title, department, deadline, salary)
+    job_object = Job.new(title, department, deadline, salary, index)
     # Add each job object to the job array.
     job_array.push job_object
+    index += 1
   end
   current_page += 1
 end
 
 # Print out the searching results.
 puts '--------------------------Searching Results--------------------------'
-index = 1
+job_array.each(&:display)
+
+# Write the job info to the result.txt file.
+f = File.new('result.txt', 'w')
+f.write("--------------------------Searching Results--------------------------\n")
 job_array.each do |item|
-  item.display index
-  index += 1
+  f.write(item.index)
+  f.write(item.title)
+  f.write(item.department)
+  f.write(item.deadline)
+  f.write(item.salary)
+  f.write(item.line)
 end
+f.close
