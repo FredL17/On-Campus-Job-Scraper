@@ -3,6 +3,7 @@
 require 'nokogiri'
 require 'httparty'
 require_relative 'job'
+require_relative 'send_email'
 
 puts 'This program will search for jobs at OSU.'
 print 'Please enter a keyword to search for: '

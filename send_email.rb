@@ -13,12 +13,11 @@ class SendEmail
     delivery_method :smtp, options
   end
 
-  #email_body initialization
   Mail.deliver do
     to 'danashkokani@gmail.com'
     from 'codefellas123@gmail.com'
     subject 'Job Search Results'
-    body "#{email_body}"
+    body "Attached is a text file with the search results."
+    add_file  File.expand_path("results.txt")
   end
-
 end
