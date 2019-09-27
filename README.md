@@ -16,6 +16,10 @@ Before running the Web Scraping project, please install all of the needed Gems b
 * Download the codebase into local machine.
 * Start web scraping with command: ruby scraper.rb
 
+### Gems Dependencies
+* httparty 0.17.1
+* mail 2.7.1
+* nokogiri 1.10.4
 
 
 ### What does it do / how to use it:
