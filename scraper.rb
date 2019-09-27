@@ -61,5 +61,8 @@ job_array.each do |item|
   f.write(item.salary)
   f.write(item.line)
 end
+if job_count == 0
+  f.write "\nThere are no jobs related to the keyword '#{keyword}'"
+end
 f.close
 SendEmail.send(f)
