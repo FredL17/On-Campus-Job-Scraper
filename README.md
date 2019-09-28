@@ -5,7 +5,7 @@ Before running the Web Scraping project, please install all of the needed Gems b
 ### Developers:
 * Bowen Li
 * Feifan Lin
-* Dana H. Shkokani
+* Dana Shkokani
 * Mengying Xie
   
 

@@ -2,20 +2,21 @@
 
 require 'mail'
 
+# Implement the sending emali feature.
 class SendEmail
   def self.send(file_name)
     puts 'Please enter the email that you want the results sent to: '
     to_email = gets.chomp.strip
-    while self.email_validation(to_email) == nil do
+    while email_validation(to_email).nil?
       puts 'Please re-enter a valid email address: '
       to_email = gets.chomp.strip
     end
 
-    # This email and password have been given in office hours
+    # This email and password have been given in office hours.
     puts "\n*Note: Next, you will be prompted to enter the gmail that you want to send the email from. An email and password have been provided during office hours. If you'd like to use your personal gmail to send this email instead, please make sure to enable Gmail Less Secure Apps Settings. More details on that are in the README file.\n"
     puts "\nPlease enter the gmail that you want to send the email from: "
     from_email = gets.chomp.strip
-    while self.email_validation(from_email) == nil do
+    while email_validation(from_email).nil?
       puts '\nPlease re-enter a valid email address: '
       from_email = gets.chomp.strip
     end
@@ -44,7 +45,6 @@ class SendEmail
   end
 
   def self.email_validation(email)
-    return (email =~ /\A[\w+\-.]+@[a-z\d\-]+(\.[a-z\d\-]+)*\.[a-z]+\z/i)
+    (email =~ /\A[\w+\-.]+@[a-z\d\-]+(\.[a-z\d\-]+)*\.[a-z]+\z/i)
   end
-
 end
