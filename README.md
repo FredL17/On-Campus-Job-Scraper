@@ -1,5 +1,4 @@
-# proj3-code
-### Web Scraping
+# On-campus Job Scraper
 Before running the Web Scraping project, please install all of the needed Gems by typing 'bundle install' in the command line. If there is no bundler on your machine, please type 'gem install bundler' to get bundler gem and then install all gems by 'bundle install'.
 
 ### Developers:
